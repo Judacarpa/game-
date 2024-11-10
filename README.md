@@ -1,2 +1,2 @@
 # game-
-this game i builded whir java script , css, and another lenguages
+this game i builded whit java script , css, and others lenguages
